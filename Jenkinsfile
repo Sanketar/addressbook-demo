@@ -1,6 +1,6 @@
 node{
     stage('code checkout'){
-        git 'https://github.com/shubhamkushwah123/addressbook-demo.git'
+        git 'https://github.com/Sanketar/addressbook-demo.git'
     }
     
     stage('clean.. compile... test... package...'){
